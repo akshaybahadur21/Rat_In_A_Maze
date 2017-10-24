@@ -12,7 +12,7 @@ In the maze matrix, 0 means the block is dead end and 1 means the block can be u
 
 For more information, [see](http://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/)
 
-<img src="https://github.com/akshaybahadur21/Rat_In_A_Maze/blob/master/rat.mp4">
+<img src="https://github.com/akshaybahadur21/Rat_In_A_Maze/blob/master/rat.gif">
 
 
 ### Execution
