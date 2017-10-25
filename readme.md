@@ -1,4 +1,4 @@
-## NQueen Problem
+## Rat in a Maze problem
 This code helps you to understand the Rat in a Maze problem.
 
 
